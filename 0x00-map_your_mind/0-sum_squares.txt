@@ -1,6 +1,0 @@
-Calculate the Sum of Squares of Given Input of Numbers
-
-Prompt user to Input a set of numbers
-	set of numbers Input designated a variable say "n"
-Add the square of "n" to get a value == Answer
-Print ("Answer")
