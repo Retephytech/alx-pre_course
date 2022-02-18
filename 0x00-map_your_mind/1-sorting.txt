@@ -1,0 +1,22 @@
+Arranging Three Numbers
+
+Prompt user to Input three numbers in any order, which will be sorted
+Input variables for three numbers as " A, B, C "
+Arrange variables with IF Statement [Sorting in Asending Order]
+IF A > B & A > C & B > C
+		Print (" 'C', 'B', 'A' ")
+	ELSE IF B > A & B > C & A > C
+		Print (" 'C', 'A', 'B' ")
+	ELSE IF C > A & C > B & A > B
+		Print (" 'B', 'A', 'C' ")
+	ELSE IF C > A & B > A & B > C
+		Print (" 'A', 'C', 'B' ")
+	ELSE IF A > B & C > B & A > C
+		Print (" 'B', 'C', 'A' ")
+	ELSE IF C > A & B > A & B > C
+		Print (" 'A', 'B', 'C' ")
+	ELSE IF A = B = C 
+		Print (" 'A', 'B', 'C' ")
+ 	END IF	
+END IF Statement (Argument)
+Print (Numbers Sorted)  
